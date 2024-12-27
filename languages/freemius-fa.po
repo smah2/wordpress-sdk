@@ -1,0 +1,2129 @@
+# Copyright (C) 2023 freemius
+# This file is distributed under the same license as the freemius package.
+# Translators:
+# S.Mahdi A.Hosseini, 2024
+msgid ""
+msgstr ""
+
+"Project-Id-Version: WordPress SDK\n"
+"Report-Msgid-Bugs-To: https://github.com/Freemius/wordpress-sdk/issues\n"
+"POT-Creation-Date: 2024-10-20 12:05+0000\n"
+"PO-Revision-Date: 2015-10-01 21:38+0000\n"
+"Last-Translator: nobody\n"
+"Language-Team: smah2 (Iran) "
+"(http://smah2.ir)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: "
+"get_text_inline;get_text_x_inline:1,2c;$this->get_text_inline;$this->get_"
+"text_x_inline:1,2c;$this->_fs->get_text_inline;$this->_fs->get_text_x_"
+"inline:1,2c;$this->fs->get_text_inline;$this->fs->get_text_x_inline:1,2c;$"
+"fs->get_text_inline;$fs->get_text_x_inline:1,2c;$this->_parent->get_text_"
+"inline;$this->_parent->get_text_x_inline:1,2c;fs_text_inline;fs_echo_"
+"inline;fs_esc_js_inline;fs_esc_attr_inline;fs_esc_attr_echo_inline;fs_esc_"
+"html_inline;fs_esc_html_echo_inline;fs_text_x_inline:1,2c;fs_echo_x_inline:1"
+",2c;fs_esc_attr_x_inline:1,2c;fs_esc_js_x_inline:1,2c;fs_esc_js_echo_x_"
+"inline:1,2c;fs_esc_html_x_inline:1,2c;fs_esc_html_echo_x_inline:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "An update to a Beta version will replace your installed version of %s with the latest Beta release - use with caution, and not on production sites. You have been warned."
+msgstr "به‌روزرسانی به نسخه بتا نسخه نصب‌شده %s شما را با آخرین نسخه بتا جایگزین می‌کند - با احتیاط استفاده کنید و در سایت‌های تولیدی استفاده نکنید. به شما هشدار داده شده است."
+
+msgid "Would you like to proceed with the update?"
+msgstr "آیا می‌خواهید به‌روزرسانی را ادامه دهید؟"
+
+msgid "Freemius SDK couldn't find the plugin's main file. Please contact sdk@freemius.com with the current error."
+msgstr "SDK فریمیوس نتوانست فایل اصلی افزونه را پیدا کند. لطفاً با آدرس sdk@freemius.com در مورد خطای فعلی تماس بگیرید."
+
+msgid "Error"
+msgstr "خطا"
+
+msgid "I found a better %s"
+msgstr "من یک %s بهتر پیدا کردم"
+
+msgid "What's the %s's name?"
+msgstr "نام %s چیست؟"
+
+msgid "It's a temporary %s - I'm troubleshooting an issue"
+msgstr "این یک %s موقت است - من در حال عیب‌یابی یک مشکل هستم"
+
+msgid "Deactivation"
+msgstr "غیرفعال‌سازی"
+
+msgid "Theme Switch"
+msgstr "تغییر تم"
+
+msgid "Other"
+msgstr "سایر"
+
+msgid "I no longer need the %s"
+msgstr "دیگر به %s نیاز ندارم"
+
+msgid "I only needed the %s for a short period"
+msgstr "من فقط برای مدت کوتاهی به %s نیاز داشتم"
+
+msgid "The %s broke my site"
+msgstr " %s سایت من را خراب کرد"
+
+msgid "The %s suddenly stopped working"
+msgstr " %s ناگهان متوقف شد"
+
+msgid "I can't pay for it anymore"
+msgstr "دیگر نمی‌توانم برای آن پرداخت کنم"
+
+msgid "What price would you feel comfortable paying?"
+msgstr "چه قیمتی برای شما مناسب است؟"
+
+msgid "I don't like to share my information with you"
+msgstr "من دوست ندارم اطلاعاتم را با شما به اشتراک بگذارم"
+
+msgid "The %s didn't work"
+msgstr " %s کار نکرد"
+
+msgid "I couldn't understand how to make it work"
+msgstr "نتوانستم بفهمم چگونه آن را کار کنم"
+
+msgid "The %s is great, but I need specific feature that you don't support"
+msgstr " %s عالی است، اما به ویژگی خاصی نیاز دارم که شما پشتیبانی نمی‌کنید"
+
+msgid "What feature?"
+msgstr "چه ویژگی؟"
+
+msgid "The %s is not working"
+msgstr " %s کار نمی‌کند"
+
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr "لطفاً بگویید چه چیزی کار نکرد تا ما بتوانیم آن را برای کاربران آینده اصلاح کنیم..."
+
+msgid "It's not what I was looking for"
+msgstr "این چیزی نیست که من به دنبالش بودم"
+
+msgid "What you've been looking for?"
+msgstr "چه چیزی را به دنبال آن بودید؟"
+
+msgid "The %s didn't work as expected"
+msgstr " %s طبق انتظار کار نکرد"
+
+msgid "What did you expect?"
+msgstr "چه انتظاری داشتید؟"
+
+msgid "Freemius Debug"
+msgstr "دیباگ فریمیوس"
+
+msgid "You have purchased a %s license."
+msgstr "شما یک مجوز %s خریداری کرده‌اید."
+
+msgid " The %s's %sdownload link%s, license key, and installation instructions have been sent to %s. If you can't find the email after 5 min, please check your spam box."
+msgstr "لینک دانلود %s، کلید مجوز و دستورالعمل‌های نصب به %s ارسال شده است. اگر پس از 5 دقیقه ایمیل را پیدا نکردید، لطفاً پوشه هرزنامه خود را بررسی کنید."
+
+msgctxt "interjection expressing joy or exuberance"
+msgid "Yee-haw"
+msgstr "هورا"
+
+msgctxt "addonX cannot run without pluginY"
+msgid "%s cannot run without %s."
+msgstr "%s بدون %s نمی‌تواند اجرا شود."
+
+msgctxt "addonX cannot run..."
+msgid "%s cannot run without the plugin."
+msgstr "%s بدون افزونه نمی‌تواند اجرا شود."
+
+msgctxt "exclamation"
+msgid "Oops"
+msgstr "اوه"
+
+msgid "There was an unexpected API error while processing your request. Please try again in a few minutes and if it still doesn't work, contact the %s's author with the following:"
+msgstr "در حین پردازش درخواست شما، خطای غیرمنتظره‌ای در API رخ داد. لطفاً چند دقیقه دیگر دوباره تلاش کنید و اگر هنوز کار نکرد، با نویسنده %s با موارد زیر تماس بگیرید:"
+
+msgid "Premium %s version was successfully activated."
+msgstr "نسخه پریمیوم %s با موفقیت فعال شد."
+
+msgctxt "Used to express elation, enthusiasm, or triumph (especially in electronic communication)."
+msgid "W00t"
+msgstr "هورا"
+
+msgid "You have a %s license."
+msgstr "شما یک مجوز %s دارید."
+
+msgid "%s free trial was successfully cancelled. Since the add-on is premium only it was automatically deactivated. If you like to use it in the future, you'll have to purchase a license."
+msgstr "آزمایش رایگان %s با موفقیت لغو شد. از آنجا که این افزونه فقط پریمیوم است، به‌طور خودکار غیرفعال شد. اگر می‌خواهید در آینده از آن استفاده کنید، باید یک مجوز خریداری کنید."
+
+msgid "%s is a premium only add-on. You have to purchase a license first before activating the plugin."
+msgstr "%s یک افزونه فقط پریمیوم است. شما ابتدا باید یک مجوز خریداری کنید تا بتوانید افزونه را فعال کنید."
+
+msgid "More information about %s"
+msgstr "اطلاعات بیشتر درباره %s"
+
+msgid "Purchase License"
+msgstr "خرید مجوز"
+
+msgid "You should receive a confirmation email for %1$s to your mailbox at %2$s. Please make sure you click the button in that email to %3$s."
+msgstr "شما باید یک ایمیل تأیید برای %1$s به صندوق پستی خود در %2$s دریافت کنید. لطفاً مطمئن شوید که روی دکمه در آن ایمیل کلیک کنید تا %3$s."
+
+msgid "start the trial"
+msgstr "آغاز آزمایش"
+
+msgid "complete the opt-in"
+msgstr "تکمیل انتخاب"
+
+msgid "Thanks!"
+msgstr "متشکرم!"
+
+msgid "You should receive %3$s for %1$s to your mailbox at %2$s in the next 5 minutes."
+msgstr "شما باید %3$s برای %1$s را به صندوق پستی خود در %2$s در 5 دقیقه آینده دریافت کنید."
+
+msgctxt "Part of the message telling the user what they should receive via email."
+msgid "the installation instructions"
+msgstr "دستورالعمل‌های نصب"
+
+msgctxt "Part of the message telling the user what they should receive via email."
+msgid "a license key"
+msgstr "یک کلید مجوز"
+
+msgid "%s to activate the license once you get it."
+msgstr "%s برای فعال‌سازی مجوز به محض دریافت آن."
+
+msgctxt "Part of an activation link message."
+msgid "Click here"
+msgstr "اینجا کلیک کنید"
+
+msgctxt "Part of the message that tells the user to check their spam folder for a specific email."
+msgid "the product's support email address"
+msgstr "آدرس ایمیل پشتیبانی محصول"
+
+msgid "If you didn't get the email, try checking your spam folder or search for emails from %4$s."
+msgstr "اگر ایمیل را دریافت نکردید، سعی کنید پوشه هرزنامه خود را بررسی کنید یا ایمیل‌های دریافتی از %4$s را جستجو کنید."
+
+msgid "Thanks for upgrading."
+msgstr "از شما برای ارتقاء متشکرم."
+
+msgid "You are just one step away - %s"
+msgstr "شما فقط یک قدم با %s فاصله دارید."
+
+msgctxt "%s - plugin name. As complete \"PluginX\" activation now"
+msgid "Complete \"%s\" Activation Now"
+msgstr "اکنون فعال‌سازی \"%s\" را کامل کنید"
+
+msgid "We made a few tweaks to the %s, %s"
+msgstr "ما چند تغییر جزئی در %s، %s ایجاد کردیم"
+
+msgid "Opt in to make \"%s\" better!"
+msgstr "برای بهتر کردن \"%s\" ثبت‌نام کنید!"
+
+msgid "The upgrade of %s was successfully completed."
+msgstr "به‌روزرسانی %s با موفقیت انجام شد."
+
+msgid "Add-On"
+msgstr "افزونه"
+
+msgid "Plugin"
+msgstr "افزونه"
+
+msgid "Theme"
+msgstr "قالب"
+
+msgid "An unknown error has occurred while trying to toggle the license's white-label mode."
+msgstr "یک خطای ناشناخته در حین تلاش برای تغییر حالت برچسب سفید مجوز رخ داده است."
+
+msgid "Your %s license was flagged as white-labeled to hide sensitive information from the WP Admin (e.g. your email, license key, prices, billing address & invoices). If you ever wish to revert it back, you can easily do it through your %s. If this was a mistake you can also %s."
+msgstr "مجوز %s شما به عنوان برچسب سفید علامت‌گذاری شده است تا اطلاعات حساس را از WP Admin پنهان کند (مانند ایمیل شما، کلید مجوز، قیمت‌ها، آدرس صورتحساب و فاکتورها). اگر بخواهید آن را به حالت قبلی برگردانید، می‌توانید به راحتی از طریق %s خود این کار را انجام دهید. اگر این یک اشتباه بود، می‌توانید همچنین %s."
+
+msgid "User Dashboard"
+msgstr "داشبورد کاربر"
+
+msgid "revert it now"
+msgstr "اکنون برگردانید"
+
+msgid "An unknown error has occurred while trying to set the user's beta mode."
+msgstr "یک خطای ناشناخته در حین تلاش برای تنظیم حالت بتا کاربر رخ داده است."
+
+msgid "Invalid new user ID or email address."
+msgstr "شناسه کاربری جدید یا آدرس ایمیل نامعتبر است."
+
+msgid "Sorry, we could not complete the email update. Another user with the same email is already registered."
+msgstr "متأسفیم، نتوانستیم به‌روزرسانی ایمیل را کامل کنیم. کاربر دیگری با همان ایمیل قبلاً ثبت‌نام کرده است."
+
+msgid "If you would like to give up the ownership of the %s's account to %s click the Change Ownership button."
+msgstr "اگر می‌خواهید مالکیت حساب %s را به %s واگذار کنید، روی دکمه تغییر مالکیت کلیک کنید."
+
+msgid "Change Ownership"
+msgstr "تغییر مالکیت"
+
+msgid "Invalid site details collection."
+msgstr "مجموعه جزئیات سایت نامعتبر است."
+
+msgid "We couldn't find your email address in the system, are you sure it's the right address?"
+msgstr "ما نتوانستیم آدرس ایمیل شما را در سیستم پیدا کنیم، آیا مطمئن هستید که این آدرس درست است؟"
+
+msgid "We can't see any active licenses associated with that email address, are you sure it's the right address?"
+msgstr "ما هیچ مجوز فعالی مرتبط با آن آدرس ایمیل نمی‌بینیم، آیا مطمئن هستید که این آدرس درست است؟"
+
+msgid "Account is pending activation. Please check your email and click the link to activate your account and then submit the affiliate form again."
+msgstr "حساب در انتظار فعال‌سازی است. لطفاً ایمیل خود را بررسی کنید و روی لینک کلیک کنید تا حساب خود را فعال کنید و سپس فرم وابسته را دوباره ارسال کنید."
+
+msgid "Buy a license now"
+msgstr "اکنون مجوز بخرید"
+
+msgid "Renew your license now"
+msgstr "اکنون مجوز خود را تمدید کنید"
+
+msgid "%s to access version %s security & feature updates, and support."
+msgstr "%s برای دسترسی به به‌روزرسانی‌های امنیتی و ویژگی‌های نسخه %s و پشتیبانی."
+
+msgid "%s opt-in was successfully completed."
+msgstr "ثبت‌نام %s با موفقیت کامل شد."
+
+msgid "Your account was successfully activated with the %s plan."
+msgstr "حساب شما با موفقیت با طرح %s فعال شد."
+
+msgid "Your trial has been successfully started."
+msgstr "آزمایش شما با موفقیت آغاز شد."
+
+msgid "Couldn't activate %s."
+msgstr "نتوانستیم %s را فعال کنیم."
+
+msgid "Please contact us with the following message:"
+msgstr "لطفاً با پیام زیر با ما تماس بگیرید:"
+
+msgid "An unknown error has occurred."
+msgstr "یک خطای ناشناخته رخ داده است."
+
+msgid "Upgrade"
+msgstr "ارتقاء"
+
+msgid "Start Trial"
+msgstr "آغاز آزمایش"
+
+msgid "Pricing"
+msgstr "قیمت‌گذاری"
+
+msgid "Affiliation"
+msgstr "وابستگی"
+
+msgid "Account"
+msgstr "حساب"
+
+msgid "Contact Us"
+msgstr "با ما تماس بگیرید"
+
+msgid "Add-Ons"
+msgstr "افزونه‌ها"
+
+msgctxt "ASCII arrow left icon"
+msgid "&#x2190;"
+msgstr "&#x2190;"
+
+msgctxt "ASCII arrow right icon"
+msgid "&#x27a4;"
+msgstr "&#x27a4;"
+
+msgctxt "noun"
+msgid "Pricing"
+msgstr "قیمت‌گذاری"
+
+msgid "Support Forum"
+msgstr "فروم پشتیبانی"
+
+msgid "Your email has been successfully verified - you are AWESOME!"
+msgstr "ایمیل شما با موفقیت تأیید شد - شما فوق‌العاده‌اید!"
+
+msgctxt "a positive response"
+msgid "Right on"
+msgstr "درست است"
+
+msgid "seems like the key you entered doesn't match our records."
+msgstr "به نظر می‌رسد کلیدی که وارد کرده‌اید با سوابق ما مطابقت ندارد."
+
+msgid "Debug mode was successfully enabled and will be automatically disabled in 60 min. You can also disable it earlier by clicking the \"Stop Debug\" link."
+msgstr "حالت دیباگ با موفقیت فعال شد و به‌طور خودکار در 60 دقیقه غیرفعال خواهد شد. شما همچنین می‌توانید زودتر آن را با کلیک روی لینک \"متوقف کردن دیباگ\" غیرفعال کنید."
+
+msgid "Your %s Add-on plan was successfully upgraded."
+msgstr "طرح افزونه %s شما با موفقیت ارتقاء یافت."
+
+msgid "%s Add-on was successfully purchased."
+msgstr "افزونه %s با موفقیت خریداری شد."
+
+msgid "Download the latest version"
+msgstr "دانلود آخرین نسخه"
+
+msgid "It seems like one of the authentication parameters is wrong. Update your Public Key, Secret Key & User ID, and try again."
+msgstr "به نظر می‌رسد یکی از پارامترهای احراز هویت اشتباه است. کلید عمومی، کلید مخفی و شناسه کاربری خود را به‌روزرسانی کنید و دوباره تلاش کنید."
+
+msgid "Error received from the server:"
+msgstr "خطا دریافت شده از سرور:"
+
+msgctxt "something somebody says when they are thinking about what you have just said."
+msgid "Hmm"
+msgstr "هممم"
+
+msgid "It looks like you are still on the %s plan. If you did upgrade or change your plan, it's probably an issue on our side - sorry."
+msgstr "به نظر می‌رسد شما هنوز روی طرح %s هستید. اگر ارتقاء یا تغییر طرح داده‌اید، احتمالاً مشکل از سمت ما است - متأسفیم."
+
+msgctxt "trial period"
+msgid "Trial"
+msgstr "آزمایش"
+
+msgid "I have upgraded my account but when I try to Sync the License, the plan remains %s."
+msgstr "من حساب خود را ارتقاء داده‌ام اما وقتی سعی می‌کنم مجوز را همگام‌سازی کنم، طرح همچنان %s باقی می‌ماند."
+
+msgid "Please contact us here"
+msgstr "لطفاً اینجا با ما تماس بگیرید"
+
+msgid "Your plan was successfully changed to %s."
+msgstr "طرح شما با موفقیت به %s تغییر یافت."
+
+msgid "Your license has expired. You can still continue using the free %s forever."
+msgstr "مجوز شما منقضی شده است. شما هنوز می‌توانید به استفاده از %s رایگان ادامه دهید."
+
+msgid "Your license has expired. %1$sUpgrade now%2$s to continue using the %3$s without interruptions."
+msgstr "مجوز شما منقضی شده است. %1$sاکنون ارتقاء دهید%2$s تا به استفاده از %3$s بدون وقفه ادامه دهید."
+
+msgid "Your license has been cancelled. If you think it's a mistake, please contact support."
+msgstr "مجوز شما لغو شده است. اگر فکر می‌کنید این یک اشتباه است، لطفاً با پشتیبانی تماس بگیرید."
+
+msgid "Your license has expired. You can still continue using all the %s features, but you'll need to renew your license to continue getting updates and support."
+msgstr "مجوز شما منقضی شده است. شما هنوز می‌توانید از تمام ویژگی‌های %s استفاده کنید، اما برای ادامه دریافت به‌روزرسانی‌ها و پشتیبانی، باید مجوز خود را تمدید کنید."
+
+msgid "Your free trial has expired. You can still continue using all our free features."
+msgstr "آزمایش رایگان شما منقضی شده است. شما هنوز می‌توانید از تمام ویژگی‌های رایگان ما استفاده کنید."
+
+msgid "Your free trial has expired. %1$sUpgrade now%2$s to continue using the %3$s without interruptions."
+msgstr "آزمایش رایگان شما منقضی شده است. %1$sاکنون ارتقاء دهید%2$s تا به استفاده از %3$s بدون وقفه ادامه دهید."
+
+msgid "Your server is blocking the access to Freemius' API, which is crucial for %1$s synchronization. Please contact your host to whitelist the following domains:%2$s"
+msgstr "سرور شما دسترسی به API فریمیوس را مسدود کرده است که برای همگام‌سازی %1$s حیاتی است. لطفاً با میزبان خود تماس بگیرید تا دامنه‌های زیر را در لیست سفید قرار دهد:%2$s"
+
+msgid "Show error details"
+msgstr "جزئیات خطا را نمایش دهید"
+
+msgid "It looks like the license could not be activated."
+msgstr "به نظر می‌رسد که مجوز نتوانسته است فعال شود."
+
+msgid "Your license was successfully activated."
+msgstr "مجوز شما با موفقیت فعال شد."
+
+msgid "It looks like your site currently doesn't have an active license."
+msgstr "به نظر می‌رسد سایت شما در حال حاضر مجوز فعالی ندارد."
+
+msgid "It looks like the license deactivation failed."
+msgstr "به نظر می‌رسد غیرفعال‌سازی مجوز با شکست مواجه شده است."
+
+msgid "Your %s license was successfully deactivated."
+msgstr "مجوز %s شما با موفقیت غیرفعال شد."
+
+msgid "Your license was successfully deactivated, you are back to the %s plan."
+msgstr "مجوز شما با موفقیت غیرفعال شد و شما به طرح %s بازگشتید."
+
+msgid "O.K"
+msgstr "باشه"
+
+msgid "Seems like we are having some temporary issue with your subscription cancellation. Please try again in few minutes."
+msgstr "به نظر می‌رسد که ما با لغو اشتراک شما مشکل موقتی داریم. لطفاً چند دقیقه دیگر دوباره تلاش کنید."
+
+msgid "Your subscription was successfully cancelled. Your %s plan license will expire in %s."
+msgstr "اشتراک شما با موفقیت لغو شد. مجوز طرح %s شما در %s منقضی خواهد شد."
+
+msgid "You are already running the %s in a trial mode."
+msgstr "شما در حال حاضر طرح %s را در حالت آزمایشی اجرا می‌کنید."
+
+msgid "You already utilized a trial before."
+msgstr "شما قبلاً از یک دوره آزمایشی استفاده کرده‌اید."
+
+msgid "Plan %s do not exist, therefore, can't start a trial."
+msgstr "طرح %s وجود ندارد، بنابراین نمی‌توان دوره آزمایشی را آغاز کرد."
+
+msgid "Plan %s does not support a trial period."
+msgstr "طرح %s از دوره آزمایشی پشتیبانی نمی‌کند."
+
+msgid "None of the %s's plans supports a trial period."
+msgstr "هیچ‌یک از طرح‌های %s از دوره آزمایشی پشتیبانی نمی‌کند."
+
+msgid "It looks like you are not in trial mode anymore so there's nothing to cancel :)"
+msgstr "به نظر می‌رسد که شما دیگر در حالت آزمایشی نیستید، بنابراین چیزی برای لغو وجود ندارد :)"
+
+msgid "Seems like we are having some temporary issue with your trial cancellation. Please try again in few minutes."
+msgstr "به نظر می‌رسد که ما با لغو دوره آزمایشی شما مشکل موقتی داریم. لطفاً چند دقیقه دیگر دوباره تلاش کنید."
+
+msgid "Your %s free trial was successfully cancelled."
+msgstr "دوره آزمایشی رایگان %s شما با موفقیت لغو شد."
+
+msgid "Version %s was released."
+msgstr "نسخه %s منتشر شد."
+
+msgid "Please download %s."
+msgstr "لطفاً %s را دانلود کنید."
+
+msgid "the latest %s version here"
+msgstr "آخرین نسخه %s در اینجا"
+
+msgid "New"
+msgstr "جدید"
+
+msgid "Seems like you got the latest release."
+msgstr "به نظر می‌رسد شما آخرین نسخه را دریافت کرده‌اید."
+
+msgid "You are all good!"
+msgstr "شما همه چیز را دارید!"
+
+msgid "Verification mail was just sent to %s. If you can't find it after 5 min, please check your spam box."
+msgstr "ایمیل تأیید به تازگی به %s ارسال شد. اگر بعد از 5 دقیقه آن را پیدا نکردید، لطفاً پوشه هرزنامه خود را بررسی کنید."
+
+msgid "Site successfully opted in."
+msgstr "سایت با موفقیت وارد شد."
+
+msgid "Awesome"
+msgstr "عالی"
+
+msgid "Sharing diagnostic data with %s helps to provide functionality that's more relevant to your website, avoid WordPress or PHP version incompatibilities that can break your website, and recognize which languages & regions the plugin should be translated and tailored to."
+msgstr "به اشتراک‌گذاری داده‌های تشخیصی با %s به ارائه عملکردی که برای وب‌سایت شما مرتبط‌تر است، کمک می‌کند، از ناهماهنگی‌های نسخه‌های وردپرس یا PHP که می‌تواند وب‌سایت شما را خراب کند، جلوگیری می‌کند و شناسایی می‌کند که کدام زبان‌ها و مناطق باید افزونه به آن‌ها ترجمه و سفارشی شود."
+
+msgid "Thank you!"
+msgstr "متشکرم!"
+
+msgid "Diagnostic data will no longer be sent from %s to %s."
+msgstr "داده‌های تشخیصی دیگر از %s به %s ارسال نخواهد شد."
+
+msgid "A confirmation email was just sent to %s. The email owner must confirm the update within the next 4 hours."
+msgstr "ایمیل تأیید به تازگی به %s ارسال شد. صاحب ایمیل باید به‌روزرسانی را در عرض 4 ساعت آینده تأیید کند."
+
+msgid "A confirmation email was just sent to %s. You must confirm the update within the next 4 hours. If you cannot find the email, please check your spam folder."
+msgstr "ایمیل تأیید به تازگی به %s ارسال شد. شما باید به‌روزرسانی را در عرض 4 ساعت آینده تأیید کنید. اگر نمی‌توانید ایمیل را پیدا کنید، لطفاً پوشه هرزنامه خود را بررسی کنید."
+
+msgid "Thanks for confirming the ownership change. An email was just sent to %s for final approval."
+msgstr "از شما برای تأیید تغییر مالکیت متشکرم. ایمیلی به تازگی به %s برای تأیید نهایی ارسال شد."
+
+msgid "%s is the new owner of the account."
+msgstr "%s صاحب جدید حساب است."
+
+msgctxt "as congratulations"
+msgid "Congrats"
+msgstr "تبریک"
+
+msgid "Please provide your full name."
+msgstr "لطفاً نام کامل خود را ارائه دهید."
+
+msgid "Your name was successfully updated."
+msgstr "نام شما با موفقیت به‌روزرسانی شد."
+
+msgid "You have successfully updated your %s."
+msgstr "شما با موفقیت %s خود را به‌روزرسانی کردید."
+
+msgid "Is this your client's site? %s if you wish to hide sensitive info like your email, license key, prices, billing address & invoices from the WP Admin."
+msgstr "آیا این سایت مشتری شماست؟ %s اگر می‌خواهید اطلاعات حساس مانند ایمیل، کلید مجوز، قیمت‌ها، آدرس صورتحساب و فاکتورها را از مدیریت وردپرس پنهان کنید."
+
+msgid "Click here"
+msgstr "اینجا کلیک کنید"
+
+msgid "Bundle"
+msgstr "بسته"
+
+msgid "Just letting you know that the add-ons information of %s is being pulled from an external server."
+msgstr "فقط می‌خواستم به شما اطلاع دهم که اطلاعات افزونه‌های %s از یک سرور خارجی بارگذاری می‌شود."
+
+msgctxt "advance notice of something that will need attention."
+msgid "Heads up"
+msgstr "توجه"
+
+msgctxt "exclamation"
+msgid "Hey"
+msgstr "سلام"
+
+msgid "How do you like %s so far? Test all our %s premium features with a %d-day free trial."
+msgstr "چطور از %s تا به حال خوشتان آمده است؟ تمام ویژگی‌های پریمیوم %s ما را با یک دوره آزمایشی رایگان %d روزه تست کنید."
+
+msgid "No commitment for %s days - cancel anytime!"
+msgstr "هیچ تعهدی برای %s روز - هر زمان که بخواهید لغو کنید!"
+
+msgid "No credit card required"
+msgstr "نیاز به کارت اعتباری نیست"
+
+msgctxt "call to action"
+msgid "Start free trial"
+msgstr "شروع دوره آزمایشی رایگان"
+
+msgid "Hey there, did you know that %s has an affiliate program? If you like the %s you can become our ambassador and earn some cash!"
+msgstr "سلام، آیا می‌دانستید که %s یک برنامه وابسته دارد؟ اگر از %s خوشتان می‌آید، می‌توانید سفیر ما شوید و مقداری پول به دست آورید!"
+
+msgid "Learn more"
+msgstr "بیشتر بدانید"
+
+msgid "Activate License"
+msgstr "فعال‌سازی مجوز"
+
+msgid "Change License"
+msgstr "تغییر مجوز"
+
+msgid "Opt Out"
+msgstr "خروج"
+
+msgid "Opt In"
+msgstr "ورود"
+
+msgid " The paid version of %1$s is already installed. Please activate it to start benefiting the %2$s features. %3$s"
+msgstr "نسخه پرداختی %1$s قبلاً نصب شده است. لطفاً آن را فعال کنید تا از ویژگی‌های %2$s بهره‌مند شوید. %3$s"
+
+msgid "Activate %s features"
+msgstr "فعال‌سازی ویژگی‌های %s"
+
+msgid "Please follow these steps to complete the upgrade"
+msgstr "لطفاً این مراحل را برای تکمیل ارتقاء دنبال کنید"
+
+msgid "Download the latest %s version"
+msgstr "آخرین نسخه %s را دانلود کنید"
+
+msgid "Upload and activate the downloaded version"
+msgstr "نسخه دانلود شده را بارگذاری و فعال کنید"
+
+msgid "How to upload and activate?"
+msgstr "چگونه بارگذاری و فعال کنیم؟"
+
+msgid "Your plan was successfully upgraded."
+msgstr "طرح شما با موفقیت ارتقاء یافت."
+
+msgid "Your plan was successfully activated."
+msgstr "طرح شما با موفقیت فعال شد."
+
+msgid "%sClick here%s to choose the sites where you'd like to activate the license on."
+msgstr "%sاینجا کلیک کنید%s تا سایت‌هایی را که می‌خواهید مجوز را روی آن‌ها فعال کنید، انتخاب کنید."
+
+msgid "Auto installation only works for opted-in users."
+msgstr "نصب خودکار فقط برای کاربرانی که وارد شده‌اند کار می‌کند."
+
+msgid "Invalid module ID."
+msgstr "شناسه ماژول نامعتبر است."
+
+msgid "Premium version already active."
+msgstr "نسخه پریمیوم قبلاً فعال است."
+
+msgid "You do not have a valid license to access the premium version."
+msgstr "شما مجوز معتبری برای دسترسی به نسخه پریمیوم ندارید."
+
+msgid "Plugin is a \"Serviceware\" which means it does not have a premium code version."
+msgstr "افزونه یک \"Serviceware\" است که به این معنی است که نسخه کد پریمیوم ندارد."
+
+msgid "Premium add-on version already installed."
+msgstr "نسخه افزونه پریمیوم قبلاً نصب شده است."
+
+msgid "View paid features"
+msgstr "مشاهده ویژگی‌های پرداختی"
+
+msgid "Thank you so much for using %s and its add-ons!"
+msgstr "بسیار متشکرم که از %s و افزونه‌های آن استفاده می‌کنید!"
+
+msgid "Thank you so much for using %s!"
+msgstr "بسیار متشکرم که از %s استفاده می‌کنید!"
+
+msgid "You've already opted-in to our usage-tracking, which helps us keep improving the %s."
+msgstr "شما قبلاً وارد ردیابی استفاده ما شده‌اید که به ما کمک می‌کند تا %s را بهبود دهیم."
+
+msgid "Thank you so much for using our products!"
+msgstr "بسیار متشکرم که از محصولات ما استفاده می‌کنید!"
+
+msgid "You've already opted-in to our usage-tracking, which helps us keep improving them."
+msgstr "شما قبلاً وارد ردیابی استفاده ما شده‌اید که به ما کمک می‌کند تا آن‌ها را بهبود دهیم."
+
+msgid "%s and its add-ons"
+msgstr "%s و افزونه‌های آن"
+
+msgid "Products"
+msgstr "محصولات"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "send me security & feature updates, educational content and offers."
+msgstr "به من به‌روزرسانی‌های امنیتی و ویژگی‌ها، محتوای آموزشی و پیشنهادات ارسال کنید."
+
+msgid "No"
+msgstr "خیر"
+
+msgid "do %sNOT%s send me security & feature updates, educational content and offers."
+msgstr "به من %sارسال نکنید%s به‌روزرسانی‌های امنیتی و ویژگی‌ها، محتوای آموزشی و پیشنهادات."
+
+msgid "Due to the new %sEU General Data Protection Regulation (GDPR)%s compliance requirements it is required that you provide your explicit consent, again, confirming that you are onboard :-)"
+msgstr "به دلیل الزامات جدید %sقانون حفاظت از داده‌های عمومی اتحادیه اروپا (GDPR)%s لازم است که شما دوباره رضایت صریح خود را ارائه دهید و تأیید کنید که با ما هستید :-)"
+
+msgid "Please let us know if you'd like us to contact you for security & feature updates, educational content, and occasional offers:"
+msgstr "لطفاً به ما اطلاع دهید که آیا می‌خواهید ما با شما تماس بگیریم برای به‌روزرسانی‌های امنیتی و ویژگی‌ها، محتوای آموزشی و پیشنهادات گاه به گاه:"
+
+msgid "License key is empty."
+msgstr "کلید مجوز خالی است."
+
+msgid "Renew license"
+msgstr "تمدید مجوز"
+
+msgid "Buy license"
+msgstr "خرید مجوز"
+
+msgid "There is a %s of %s available."
+msgstr "یک %s از %s موجود است."
+
+msgid "new Beta version"
+msgstr "نسخه بتای جدید"
+
+msgid "new version"
+msgstr "نسخه جدید"
+
+msgid "Important Upgrade Notice:"
+msgstr "اطلاعیه مهم ارتقاء:"
+
+msgid "Installing plugin: %s"
+msgstr "در حال نصب افزونه: %s"
+
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "نمی‌توان به سیستم فایل متصل شد. لطفاً اعتبارنامه‌های خود را تأیید کنید."
+
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "بسته افزونه از راه دور شامل پوشه‌ای با نام مورد نظر نیست و تغییر نام نیز کار نکرد."
+
+msgid "Purchase More"
+msgstr "خرید بیشتر"
+
+msgctxt "verb"
+msgid "Purchase"
+msgstr "خرید"
+
+msgid "Start my free %s"
+msgstr "شروع %s رایگان من"
+
+msgid "Install Free Version Update Now"
+msgstr "به‌روزرسانی نسخه رایگان را اکنون نصب کنید"
+
+msgid "Install Update Now"
+msgstr "اکنون به‌روزرسانی را نصب کنید"
+
+msgid "Install Free Version Now"
+msgstr "نسخه رایگان را اکنون نصب کنید"
+
+msgid "Install Now"
+msgstr "اکنون نصب کنید"
+
+msgctxt "as download latest version"
+msgid "Download Latest Free Version"
+msgstr "دانلود آخرین نسخه رایگان"
+
+msgctxt "as download latest version"
+msgid "Download Latest"
+msgstr "دانلود آخرین نسخه"
+
+msgid "Activate this add-on"
+msgstr "این افزونه را فعال کنید"
+
+msgid "Activate Free Version"
+msgstr "نسخه رایگان را فعال کنید"
+
+msgid "Activate"
+msgstr "فعال‌سازی"
+
+msgctxt "Plugin installer section title"
+msgid "Description"
+msgstr "توضیحات"
+
+msgctxt "Plugin installer section title"
+msgid "Installation"
+msgstr "نصب"
+
+msgctxt "Plugin installer section title"
+msgid "FAQ"
+msgstr "سؤالات متداول"
+
+msgid "Screenshots"
+msgstr "عکس‌های صفحه"
+
+msgctxt "Plugin installer section title"
+msgid "Changelog"
+msgstr "تاریخچه تغییرات"
+
+msgctxt "Plugin installer section title"
+msgid "Reviews"
+msgstr "نقد و بررسی‌ها"
+
+msgctxt "Plugin installer section title"
+msgid "Other Notes"
+msgstr "یادداشت‌های دیگر"
+
+msgctxt "Plugin installer section title"
+msgid "Features & Pricing"
+msgstr "ویژگی‌ها و قیمت‌گذاری"
+
+msgid "Plugin Install"
+msgstr "نصب افزونه"
+
+msgctxt "e.g. Professional Plan"
+msgid "%s Plan"
+msgstr "طرح %s"
+
+msgctxt "e.g. the best product"
+msgid "Best"
+msgstr "بهترین"
+
+msgctxt "as every month"
+msgid "Monthly"
+msgstr "ماهانه"
+
+msgctxt "as once a year"
+msgid "Annual"
+msgstr "سالانه"
+
+msgid "Lifetime"
+msgstr "عمری"
+
+msgctxt "e.g. billed monthly"
+msgid "Billed %s"
+msgstr "صورتحساب %s"
+
+msgctxt "as once a year"
+msgid "Annually"
+msgstr "سالانه"
+
+msgctxt "as once a year"
+msgid "Once"
+msgstr "یک بار"
+
+msgid "Single Site License"
+msgstr "مجوز سایت تک"
+
+msgid "Unlimited Licenses"
+msgstr "مجوزهای نامحدود"
+
+msgid "Up to %s Sites"
+msgstr "تا %s سایت"
+
+msgctxt "as monthly period"
+msgid "mo"
+msgstr "ماه"
+
+msgctxt "as annual period"
+msgid "year"
+msgstr "سال"
+
+msgctxt "noun"
+msgid "Price"
+msgstr "قیمت"
+
+msgid "Save %s"
+msgstr "صرفه‌جویی %s"
+
+msgid "No commitment for %s - cancel anytime"
+msgstr "هیچ تعهدی برای %s - هر زمان که بخواهید لغو کنید"
+
+msgid "After your free %s, pay as little as %s"
+msgstr "پس از %s رایگان شما، تنها %s پرداخت کنید"
+
+msgid "Details"
+msgstr "جزئیات"
+
+msgctxt "product version"
+msgid "Version"
+msgstr "نسخه"
+
+msgctxt "as the plugin author"
+msgid "Author"
+msgstr "نویسنده"
+
+msgid "Last Updated"
+msgstr "آخرین به‌روزرسانی"
+
+msgctxt "x-ago"
+msgid "%s ago"
+msgstr "%s پیش"
+
+msgid "Requires WordPress Version"
+msgstr "نیاز به نسخه وردپرس"
+
+msgid "%s or higher"
+msgstr "%s یا بالاتر"
+
+msgid "Compatible up to"
+msgstr "سازگار تا"
+
+msgid "Requires PHP Version"
+msgstr "نیاز به نسخه PHP"
+
+msgid "Downloaded"
+msgstr "دانلود شده"
+
+msgid "%s time"
+msgstr "%s بار"
+
+msgid "%s times"
+msgstr "%s بار"
+
+msgid "WordPress.org Plugin Page"
+msgstr "صفحه افزونه WordPress.org"
+
+msgid "Plugin Homepage"
+msgstr "صفحه اصلی افزونه"
+
+msgid "Donate to this plugin"
+msgstr "به این افزونه کمک مالی کنید"
+
+msgid "Average Rating"
+msgstr "امتیاز میانگین"
+
+msgid "based on %s"
+msgstr "بر اساس %s"
+
+msgid "%s rating"
+msgstr "%s امتیاز"
+
+msgid "%s ratings"
+msgstr "%s امتیاز"
+
+msgid "%s star"
+msgstr "%s ستاره"
+
+msgid "%s stars"
+msgstr "%s ستاره"
+
+msgid "Click to see reviews that provided a rating of %s"
+msgstr "برای مشاهده نظراتی که امتیاز %s را ارائه داده‌اند، کلیک کنید"
+
+msgid "Contributors"
+msgstr "مشارکت‌کنندگان"
+
+msgid "This plugin requires a newer version of PHP."
+msgstr "این افزونه به نسخه جدیدتری از PHP نیاز دارد."
+
+msgid "<a href=\"%s\" target=\"_blank\">Click here to learn more about updating PHP</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">اینجا کلیک کنید تا بیشتر در مورد به‌روزرسانی PHP بیاموزید</a>."
+
+msgid "Warning"
+msgstr "هشدار"
+
+msgid "This plugin has not been tested with your current version of WordPress."
+msgstr "این افزونه با نسخه فعلی وردپرس شما آزمایش نشده است."
+
+msgid "This plugin has not been marked as compatible with your version of WordPress."
+msgstr "این افزونه به عنوان سازگار با نسخه وردپرس شما علامت‌گذاری نشده است."
+
+msgid "Paid add-on must be deployed to Freemius."
+msgstr "افزونه پولی باید به Freemius منتقل شود."
+
+msgid "Add-on must be deployed to WordPress.org or Freemius."
+msgstr "افزونه باید به WordPress.org یا Freemius منتقل شود."
+
+msgid "Newer Version (%s) Installed"
+msgstr "نسخه جدیدتر (%s) نصب شده"
+
+msgid "Newer Free Version (%s) Installed"
+msgstr "نسخه رایگان جدیدتر (%s) نصب شده"
+
+msgid "Latest Version Installed"
+msgstr "آخرین نسخه نصب شده"
+
+msgid "Latest Free Version Installed"
+msgstr "آخرین نسخه رایگان نصب شده"
+
+msgid "Downgrading your plan"
+msgstr "کاهش سطح طرح شما"
+
+msgid "Cancelling the subscription"
+msgstr "لغو اشتراک"
+
+msgid "%1$s will immediately stop all future recurring payments and your %2$s plan license will expire in %3$s."
+msgstr "%1$s به‌طور فوری تمام پرداخت‌های دوره‌ای آینده را متوقف کرده و مجوز طرح %2$s شما در %3$s منقضی خواهد شد."
+
+msgid "Please note that we will not be able to grandfather outdated pricing for renewals/new subscriptions after a cancellation. If you choose to renew the subscription manually in the future, after a price increase, which typically occurs once a year, you will be charged the updated price."
+msgstr "لطفاً توجه داشته باشید که ما نخواهیم توانست قیمت‌های قدیمی را برای تمدیدها/اشتراک‌های جدید پس از لغو حفظ کنیم. اگر در آینده تصمیم به تمدید اشتراک به‌صورت دستی بگیرید، پس از افزایش قیمت، که معمولاً یک بار در سال اتفاق می‌افتد، شما به قیمت به‌روز شده charged خواهید شد."
+
+msgid "Cancelling the trial will immediately block access to all premium features. Are you sure?"
+msgstr "لغو دوره آزمایشی به‌طور فوری دسترسی به تمام ویژگی‌های پریمیوم را مسدود خواهد کرد. آیا مطمئن هستید؟"
+
+msgid "You can still enjoy all %s features but you will not have access to %s security & feature updates, nor support."
+msgstr "شما هنوز می‌توانید از تمام ویژگی‌های %s لذت ببرید، اما به‌روزرسانی‌های امنیتی و ویژگی‌های %s و همچنین پشتیبانی را نخواهید داشت."
+
+msgid "Once your license expires you can still use the Free version but you will NOT have access to the %s features."
+msgstr "پس از انقضای مجوز شما، می‌توانید از نسخه رایگان استفاده کنید، اما به ویژگی‌های %s دسترسی نخواهید داشت."
+
+msgid "Activate %s Plan"
+msgstr "فعال‌سازی طرح %s"
+
+msgid "Auto renews in %s"
+msgstr "به‌طور خودکار در %s تمدید می‌شود"
+
+msgid "Expires in %s"
+msgstr "در %s منقضی می‌شود"
+
+msgctxt "as synchronize license"
+msgid "Sync License"
+msgstr "همگام‌سازی مجوز"
+
+msgid "Cancel Trial"
+msgstr "لغو دوره آزمایشی"
+
+msgid "Change Plan"
+msgstr "تغییر طرح"
+
+msgctxt "verb"
+msgid "Upgrade"
+msgstr "ارتقاء"
+
+msgctxt "verb"
+msgid "Downgrade"
+msgstr "کاهش"
+
+msgid "Free"
+msgstr "رایگان"
+
+msgctxt "as product pricing plan"
+msgid "Plan"
+msgstr "طرح"
+
+msgid "Bundle Plan"
+msgstr "طرح بسته"
+
+msgid "Free Trial"
+msgstr "دوره آزمایشی رایگان"
+
+msgid "Account Details"
+msgstr "جزئیات حساب"
+
+msgid "Start Debug"
+msgstr "شروع عیب‌یابی"
+
+msgid "Stop Debug"
+msgstr "متوقف کردن عیب‌یابی"
+
+msgid "Billing & Invoices"
+msgstr "صورتحساب و فاکتورها"
+
+msgid "Deactivate License"
+msgstr "غیرفعال کردن مجوز"
+
+msgid "Are you sure you want to proceed?"
+msgstr "آیا مطمئن هستید که می‌خواهید ادامه دهید؟"
+
+msgid "Cancel Subscription"
+msgstr "لغو اشتراک"
+
+msgctxt "as synchronize"
+msgid "Sync"
+msgstr "همگام‌سازی"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "User ID"
+msgstr "شناسه کاربر"
+
+msgid "ID"
+msgstr "شناسه"
+
+msgid "Site ID"
+msgstr "شناسه سایت"
+
+msgid "No ID"
+msgstr "بدون شناسه"
+
+msgid "Public Key"
+msgstr "کلید عمومی"
+
+msgid "Secret Key"
+msgstr "کلید مخفی"
+
+msgid "No Secret"
+msgstr "بدون کلید مخفی"
+
+msgid "Trial"
+msgstr "آزمایشی"
+
+msgid "License Key"
+msgstr "کلید مجوز"
+
+msgid "Join the Beta program"
+msgstr "به برنامه بتا بپیوندید"
+
+msgid "not verified"
+msgstr "تأیید نشده"
+
+msgid "Expired"
+msgstr "منقضی شده"
+
+msgid "Premium version"
+msgstr "نسخه پریمیوم"
+
+msgid "Free version"
+msgstr "نسخه رایگان"
+
+msgid "Verify Email"
+msgstr "تأیید ایمیل"
+
+msgid "Download %s Version"
+msgstr "دانلود نسخه %s"
+
+msgid "Download Paid Version"
+msgstr "دانلود نسخه پولی"
+
+msgid "Show"
+msgstr "نمایش"
+
+msgid "What is your %s?"
+msgstr "چیست %s شما؟"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "Change User"
+msgstr "تغییر کاربر"
+
+msgid "Sites"
+msgstr "سایت‌ها"
+
+msgid "Search by address"
+msgstr "جستجو بر اساس آدرس"
+
+msgid "Address"
+msgstr "آدرس"
+
+msgid "License"
+msgstr "مجوز"
+
+msgid "Plan"
+msgstr "طرح"
+
+msgid "License"
+msgstr "مجوز"
+
+msgid "Hide"
+msgstr "پنهان کردن"
+
+msgid "Processing"
+msgstr "در حال پردازش"
+
+msgid "Get updates for bleeding edge Beta versions of %s."
+msgstr "به‌روزرسانی‌ها را برای نسخه‌های بتا پیشرفته %s دریافت کنید."
+
+msgid "Cancelling %s"
+msgstr "لغو %s"
+
+msgid "trial"
+msgstr "آزمایشی"
+
+msgid "Cancelling %s..."
+msgstr "لغو %s..."
+
+msgid "subscription"
+msgstr "اشتراک"
+
+msgid "Deactivating your license will block all premium features, but will enable activating the license on another site. Are you sure you want to proceed?"
+msgstr "غیرفعال کردن مجوز شما تمام ویژگی‌های پریمیوم را مسدود خواهد کرد، اما فعال‌سازی مجوز در سایت دیگر را امکان‌پذیر می‌کند. آیا مطمئن هستید که می‌خواهید ادامه دهید؟"
+
+msgid "Disabling white-label mode"
+msgstr "غیرفعال کردن حالت برچسب سفید"
+
+msgid "Enabling white-label mode"
+msgstr "فعال‌سازی حالت برچسب سفید"
+
+msgid "View details"
+msgstr "مشاهده جزئیات"
+
+msgid "Add Ons for %s"
+msgstr "افزونه‌ها برای %s"
+
+msgid "We couldn't load the add-ons list. It's probably an issue on our side, please try to come back in few minutes."
+msgstr "ما نتوانستیم لیست افزونه‌ها را بارگذاری کنیم. احتمالاً مشکلی از سمت ماست، لطفاً چند دقیقه دیگر دوباره تلاش کنید."
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Installed"
+msgstr "نصب شده"
+
+msgid "Dismiss"
+msgstr "رد کردن"
+
+msgid "%s sec"
+msgstr "%s ثانیه"
+
+msgid "Automatic Installation"
+msgstr "نصب خودکار"
+
+msgid "An automated download and installation of %s (paid version) from %s will start in %s. If you would like to do it manually - click the cancellation button now."
+msgstr "یک دانلود و نصب خودکار از %s (نسخه پولی) از %s در %s آغاز خواهد شد. اگر می‌خواهید این کار را به‌صورت دستی انجام دهید - اکنون روی دکمه لغو کلیک کنید."
+
+msgid "The installation process has started and may take a few minutes to complete. Please wait until it is done - do not refresh this page."
+msgstr "فرایند نصب آغاز شده و ممکن است چند دقیقه طول بکشد تا کامل شود. لطفاً تا اتمام آن صبر کنید - این صفحه را تازه‌سازی نکنید."
+
+msgid "Cancel Installation"
+msgstr "لغو نصب"
+
+msgid "Checkout"
+msgstr "پرداخت"
+
+msgid "PCI compliant"
+msgstr "مطابق با PCI"
+
+msgctxt "greeting"
+msgid "Hey %s,"
+msgstr "سلام %s،"
+
+msgid "Never miss an important update"
+msgstr "هرگز یک به‌روزرسانی مهم را از دست ندهید"
+
+msgid "Thank you for updating to %1$s v%2$s!"
+msgstr "از شما برای به‌روزرسانی به %1$s v%2$s سپاسگزاریم!"
+
+msgid "Allow & Continue"
+msgstr "اجازه دهید و ادامه دهید"
+
+msgid "Re-send activation email"
+msgstr "ایمیل فعال‌سازی را دوباره ارسال کنید"
+
+msgid "Thanks %s!"
+msgstr "متشکرم %s!"
+
+msgid "You should receive a confirmation email for %s to your mailbox at %s. Please make sure you click the button in that email to %s."
+msgstr "شما باید یک ایمیل تأیید برای %s به صندوق پستی خود در %s دریافت کنید. لطفاً مطمئن شوید که روی دکمه در آن ایمیل کلیک کنید تا %s."
+
+msgid "Welcome to %s! To get started, please enter your license key:"
+msgstr "به %s خوش آمدید! برای شروع، لطفاً کلید مجوز خود را وارد کنید:"
+
+msgid "Opt in to get email notifications for security & feature updates, educational content, and occasional offers, and to share some basic WordPress environment info. This will help us make the %s more compatible with your site and better at doing what you need it to."
+msgstr "برای دریافت اعلان‌های ایمیلی درباره به‌روزرسانی‌های امنیتی و ویژگی‌ها، محتوای آموزشی و پیشنهادات گاه‌به‌گاه، و به اشتراک‌گذاری برخی اطلاعات پایه درباره محیط وردپرس خود، ثبت‌نام کنید. این به ما کمک می‌کند تا %s را با سایت شما سازگارتر و بهتر برای انجام نیازهای شما بسازیم."
+
+msgid "We have introduced this opt-in so you never miss an important update and help us make the %s more compatible with your site and better at doing what you need it to."
+msgstr "ما این گزینه را معرفی کرده‌ایم تا هرگز یک به‌روزرسانی مهم را از دست ندهید و به ما کمک کنید تا %s را با سایت شما سازگارتر و بهتر برای انجام نیازهای شما بسازیم."
+
+msgid "Opt in to get email notifications for security & feature updates, educational content, and occasional offers, and to share some basic WordPress environment info."
+msgstr "برای دریافت اعلان‌های ایمیلی درباره به‌روزرسانی‌های امنیتی و ویژگی‌ها، محتوای آموزشی و پیشنهادات گاه‌به‌گاه، و به اشتراک‌گذاری برخی اطلاعات پایه درباره محیط وردپرس خود، ثبت‌نام کنید."
+
+msgid "If you skip this, that's okay! %1$s will still work just fine."
+msgstr "اگر این را نادیده بگیرید، اشکالی ندارد! %1$s همچنان به‌خوبی کار خواهد کرد."
+
+msgid "We're excited to introduce the Freemius network-level integration."
+msgstr "ما از معرفی ادغام سطح شبکه Freemius هیجان‌زده هستیم."
+
+msgid "During the update process we detected %d site(s) that are still pending license activation."
+msgstr "در طول فرایند به‌روزرسانی، ما %d سایت را شناسایی کردیم که هنوز منتظر فعال‌سازی مجوز هستند."
+
+msgid "If you'd like to use the %s on those sites, please enter your license key below and click the activation button."
+msgstr "اگر می‌خواهید از %s در آن سایت‌ها استفاده کنید، لطفاً کلید مجوز خود را در زیر وارد کرده و روی دکمه فعال‌سازی کلیک کنید."
+
+msgid "%s's paid features"
+msgstr "ویژگی‌های پولی %s"
+
+msgid "Alternatively, you can skip it for now and activate the license later, in your %s's network-level Account page."
+msgstr "به‌عنوان گزینه‌ای دیگر، می‌توانید فعلاً این را نادیده بگیرید و بعداً در صفحه حساب سطح شبکه %s، مجوز را فعال کنید."
+
+msgid "During the update process we detected %s site(s) in the network that are still pending your attention."
+msgstr "در طول فرایند به‌روزرسانی، ما %s سایت را در شبکه شناسایی کردیم که هنوز به توجه شما نیاز دارند."
+
+msgid "License key"
+msgstr "کلید مجوز"
+
+msgid "Can't find your license key?"
+msgstr "نتوانستید کلید مجوز خود را پیدا کنید؟"
+
+msgctxt "verb"
+msgid "Skip"
+msgstr "نادیده گرفتن"
+
+msgid "Delegate to Site Admins"
+msgstr "واگذار کردن به مدیران سایت"
+
+msgid "If you click it, this decision will be delegated to the sites administrators."
+msgstr "اگر روی آن کلیک کنید، این تصمیم به مدیران سایت واگذار خواهد شد."
+
+msgid "License issues?"
+msgstr "مشکلات مجوز؟"
+
+msgid "For delivery of security & feature updates, and license management, %s needs to"
+msgstr "برای دریافت به‌روزرسانی‌های امنیتی و ویژگی‌ها، و مدیریت مجوز، %s نیاز دارد که"
+
+msgid "This will allow %s to"
+msgstr "این به %s اجازه می‌دهد که"
+
+msgid "Don't have a license key?"
+msgstr "کلید مجوز ندارید؟"
+
+msgid "Have a license key?"
+msgstr "کلید مجوز دارید؟"
+
+msgid "Freemius is our licensing and software updates engine"
+msgstr "Freemius موتور مجوزدهی و به‌روزرسانی نرم‌افزار ماست"
+
+msgid "Privacy Policy"
+msgstr "سیاست حفظ حریم خصوصی"
+
+msgid "License Agreement"
+msgstr "قرارداد مجوز"
+
+msgid "Terms of Service"
+msgstr "شرایط خدمات"
+
+msgctxt "as in the process of sending an email"
+msgid "Sending email"
+msgstr "در حال ارسال ایمیل"
+
+msgctxt "as activating plugin"
+msgid "Activating"
+msgstr "فعال‌سازی"
+
+msgid "Contact"
+msgstr "تماس"
+
+msgctxt "as turned off"
+msgid "Off"
+msgstr "خاموش"
+
+msgctxt "as turned on"
+msgid "On"
+msgstr "روشن"
+
+msgid "SDK"
+msgstr "SDK"
+
+msgctxt "as code debugging"
+msgid "Debugging"
+msgstr "عیب‌یابی"
+
+msgid "Actions"
+msgstr "اقدامات"
+
+msgid "Are you sure you want to delete all Freemius data?"
+msgstr "آیا مطمئن هستید که می‌خواهید تمام داده‌های Freemius را حذف کنید؟"
+
+msgid "Delete All Accounts"
+msgstr "حذف تمام حساب‌ها"
+
+msgid "Clear API Cache"
+msgstr "پاک کردن کش API"
+
+msgid "Clear Updates Transients"
+msgstr "پاک کردن موقت‌های به‌روزرسانی"
+
+msgid "Reset Deactivation Snoozing"
+msgstr "بازنشانی خواب غیرفعال‌سازی"
+
+msgid "Sync Data From Server"
+msgstr "همگام‌سازی داده‌ها از سرور"
+
+msgid "Migrate Options to Network"
+msgstr "مهاجرت گزینه‌ها به شبکه"
+
+msgid "Load DB Option"
+msgstr "بارگذاری گزینه پایگاه داده"
+
+msgid "Set DB Option"
+msgstr "تنظیم گزینه پایگاه داده"
+
+msgid "Key"
+msgstr "کلید"
+
+msgid "Value"
+msgstr "مقدار"
+
+msgid "SDK Versions"
+msgstr "نسخه‌های SDK"
+
+msgid "SDK Path"
+msgstr "مسیر SDK"
+
+msgid "Module Path"
+msgstr "مسیر ماژول"
+
+msgid "Is Active"
+msgstr "فعال است"
+
+msgid "Plugins"
+msgstr "افزونه‌ها"
+
+msgid "Themes"
+msgstr "قالب‌ها"
+
+msgid "Slug"
+msgstr "نامک"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "API"
+msgstr "API"
+
+msgid "Freemius State"
+msgstr "وضعیت Freemius"
+
+msgid "Network Blog"
+msgstr "وبلاگ شبکه"
+
+msgid "Network User"
+msgstr "کاربر شبکه"
+
+msgid "Connected"
+msgstr "متصل"
+
+msgid "Blocked"
+msgstr "مسدود"
+
+msgid "Unknown"
+msgstr "ناشناخته"
+
+msgid "Simulate Trial Promotion"
+msgstr "شبیه‌سازی ارتقاء آزمایشی"
+
+msgid "Simulate Network Upgrade"
+msgstr "شبیه‌سازی ارتقاء شبکه"
+
+msgid "%s Installs"
+msgstr "%s نصب‌ها"
+
+msgid "Sites"
+msgstr "سایت‌ها"
+
+msgid "Blog ID"
+msgstr "شناسه وبلاگ"
+
+msgid "License ID"
+msgstr "شناسه مجوز"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Add Ons of module %s"
+msgstr "افزونه‌های ماژول %s"
+
+msgid "Users"
+msgstr "کاربران"
+
+msgid "Verified"
+msgstr "تأیید شده"
+
+msgid "%s Licenses"
+msgstr "%s مجوزها"
+
+msgid "Plugin ID"
+msgstr "شناسه افزونه"
+
+msgid "Plan ID"
+msgstr "شناسه طرح"
+
+msgid "Quota"
+msgstr "حجم"
+
+msgid "Activated"
+msgstr "فعال شده"
+
+msgid "Blocking"
+msgstr "مسدود کردن"
+
+msgid "Type"
+msgstr "نوع"
+
+msgid "Expiration"
+msgstr "تاریخ انقضا"
+
+msgid "Debug Log"
+msgstr "گزارش عیب‌یابی"
+
+msgid "All Types"
+msgstr "همه نوع‌ها"
+
+msgid "All Requests"
+msgstr "همه درخواست‌ها"
+
+msgid "File"
+msgstr "فایل"
+
+msgid "Function"
+msgstr "تابع"
+
+msgid "Process ID"
+msgstr "شناسه فرایند"
+
+msgid "Logger"
+msgstr "ثبت‌کننده"
+
+msgid "Message"
+msgstr "پیام"
+
+msgid "Filter"
+msgstr "فیلتر"
+
+msgid "Download"
+msgstr "دانلود"
+
+msgid "Timestamp"
+msgstr "زمان‌سنجی"
+
+msgid "Secure HTTPS %s page, running from an external domain"
+msgstr "صفحه HTTPS ایمن %s، در حال اجرا از یک دامنه خارجی"
+
+msgid "Support"
+msgstr "پشتیبانی"
+
+msgid "ms"
+msgstr "میلی‌ثانیه"
+
+msgid "Freemius API"
+msgstr "API Freemius"
+
+msgid "Requests"
+msgstr "درخواست‌ها"
+
+msgid "Invalid clone resolution action."
+msgstr "عملیات حل کلون نامعتبر است."
+
+msgid "products"
+msgstr "محصولات"
+
+msgid "%1$s has been placed into safe mode because we noticed that %2$s is an exact copy of %3$s."
+msgstr "%1$s به حالت ایمن منتقل شده است زیرا متوجه شدیم که %2$s یک کپی دقیق از %3$s است."
+
+msgid "The products below have been placed into safe mode because we noticed that %2$s is an exact copy of %3$s:%1$s"
+msgstr "محصولات زیر به حالت ایمن منتقل شده‌اند زیرا متوجه شدیم که %2$s یک کپی دقیق از %3$s است: %1$s"
+
+msgid "The products below have been placed into safe mode because we noticed that %2$s is an exact copy of these sites:%3$s%1$s"
+msgstr "محصولات زیر به حالت ایمن منتقل شده‌اند زیرا متوجه شدیم که %2$s یک کپی دقیق از این سایت‌ها است: %3$s %1$s"
+
+msgid "the above-mentioned sites"
+msgstr "سایت‌های ذکر شده در بالا"
+
+msgid "Is %2$s a duplicate of %4$s?"
+msgstr "آیا %2$s یک کپی از %4$s است؟"
+
+msgid "Yes, %2$s is a duplicate of %4$s for the purpose of testing, staging, or development."
+msgstr "بله، %2$s یک کپی از %4$s برای اهداف آزمایش، آماده‌سازی یا توسعه است."
+
+msgid "Long-Term Duplicate"
+msgstr "کپی بلندمدت"
+
+msgid "Duplicate Website"
+msgstr "وب‌سایت کپی"
+
+msgid "Is %2$s the new home of %4$s?"
+msgstr "آیا %2$s خانه جدید %4$s است؟"
+
+msgid "Yes, %%2$s is replacing %%4$s. I would like to migrate my %s from %%4$s to %%2$s."
+msgstr "بله، %%2$s جایگزین %%4$s شده است. من می‌خواهم %s خود را از %%4$s به %%2$s منتقل کنم."
+
+msgid "license"
+msgstr "مجوز"
+
+msgid "data"
+msgstr "داده"
+
+msgid "Migrate License"
+msgstr "مهاجرت مجوز"
+
+msgid "Migrate"
+msgstr "مهاجرت"
+
+msgid "Is %2$s a new website?"
+msgstr "آیا %2$s یک وب‌سایت جدید است؟"
+
+msgid "Yes, %2$s is a new and different website that is separate from %4$s."
+msgstr "بله، %2$s یک وب‌سایت جدید و متفاوت است که از %4$s جداست."
+
+msgid "It requires license activation."
+msgstr "این نیاز به فعال‌سازی مجوز دارد."
+
+msgid "New Website"
+msgstr "وب‌سایت جدید"
+
+msgctxt "Clone resolution admin notice products list label"
+msgid "Products"
+msgstr "محصولات"
+
+msgid "You marked this website, %s, as a temporary duplicate of %s."
+msgstr "شما این وب‌سایت، %s، را به عنوان یک کپی موقت از %s علامت‌گذاری کردید."
+
+msgid "You marked this website, %s, as a temporary duplicate of these sites"
+msgstr "شما این وب‌سایت، %s، را به عنوان یک کپی موقت از این سایت‌ها علامت‌گذاری کردید."
+
+msgid "%s automatic security & feature updates and paid functionality will keep working without interruptions until %s (or when your license expires, whatever comes first)."
+msgstr "به‌روزرسانی‌های امنیتی و ویژگی‌های خودکار %s و عملکردهای پولی بدون وقفه تا %s ادامه خواهند داشت (یا زمانی که مجوز شما منقضی شود، هر کدام که زودتر باشد)."
+
+msgctxt "\"The <product_label>\", e.g.: \"The plugin\""
+msgid "The %s's"
+msgstr "محصول %s"
+
+msgid "The following products'"
+msgstr "محصولات زیر"
+
+msgid "If this is a long term duplicate, to keep automatic updates and paid functionality after %s, please %s."
+msgstr "اگر این یک کپی بلندمدت است، برای حفظ به‌روزرسانی‌های خودکار و عملکردهای پولی پس از %s، لطفاً %s."
+
+msgid "activate a license here"
+msgstr "اینجا یک مجوز فعال کنید"
+
+msgid "View Basic Website Info"
+msgstr "مشاهده اطلاعات پایه وب‌سایت"
+
+msgid "Homepage URL & title, WP & PHP versions, and site language"
+msgstr "URL و عنوان صفحه اصلی، نسخه‌های WP و PHP، و زبان سایت"
+
+msgid "To provide additional functionality that's relevant to your website, avoid WordPress or PHP version incompatibilities that can break your website, and recognize which languages & regions the %s should be translated and tailored to."
+msgstr "برای ارائه عملکرد اضافی مرتبط با وب‌سایت شما، از ناسازگاری‌های نسخه وردپرس یا PHP که می‌تواند وب‌سایت شما را خراب کند، جلوگیری کنید و شناسایی کنید که کدام زبان‌ها و مناطق باید %s ترجمه و سفارشی شوند."
+
+msgid "View Basic %s Info"
+msgstr "مشاهده اطلاعات پایه %s"
+
+msgid "Current %s & SDK versions, and if active or uninstalled"
+msgstr "نسخه‌های فعلی %s و SDK، و اینکه آیا فعال یا نصب نشده است"
+
+msgid "View License Essentials"
+msgstr "مشاهده الزامات مجوز"
+
+msgid ""
+msgstr ""
+
+msgid "To let you manage & control where the license is activated and ensure %s security & feature updates are only delivered to websites you authorize."
+msgstr "برای اینکه شما بتوانید مدیریت و کنترل کنید که مجوز در کجا فعال شده است و اطمینان حاصل کنید که به‌روزرسانی‌های امنیتی و ویژگی‌های %s فقط به وب‌سایت‌هایی که شما مجاز کرده‌اید، ارسال می‌شود."
+
+msgid "View %s State"
+msgstr "مشاهده وضعیت %s"
+
+msgid "Is active, deactivated, or uninstalled"
+msgstr "فعال، غیرفعال یا نصب نشده است"
+
+msgid "So you can reuse the license when the %s is no longer active."
+msgstr "بنابراین می‌توانید مجوز را زمانی که %s دیگر فعال نیست، دوباره استفاده کنید."
+
+msgid "View Diagnostic Info"
+msgstr "مشاهده اطلاعات تشخیصی"
+
+msgid "optional"
+msgstr "اختیاری"
+
+msgid "WordPress & PHP versions, site language & title"
+msgstr "نسخه‌های وردپرس و PHP، زبان و عنوان سایت"
+
+msgid "To avoid breaking your website due to WordPress or PHP version incompatibilities, and recognize which languages & regions the %s should be translated and tailored to."
+msgstr "برای جلوگیری از خراب شدن وب‌سایت شما به دلیل ناسازگاری‌های نسخه وردپرس یا PHP، و شناسایی اینکه کدام زبان‌ها و مناطق باید %s ترجمه و سفارشی شوند."
+
+msgid "View Plugins & Themes List"
+msgstr "مشاهده لیست افزونه‌ها و قالب‌ها"
+
+msgid "Names, slugs, versions, and if active or not"
+msgstr "نام‌ها، نامک‌ها، نسخه‌ها و اینکه آیا فعال هستند یا نه"
+
+msgid "To ensure compatibility and avoid conflicts with your installed plugins and themes."
+msgstr "برای اطمینان از سازگاری و جلوگیری از تداخل با افزونه‌ها و قالب‌های نصب شده شما."
+
+msgid "View Basic Profile Info"
+msgstr "مشاهده اطلاعات پایه پروفایل"
+
+msgid "Your WordPress user's: first & last name, and email address"
+msgstr "نام و نام خانوادگی و آدرس ایمیل کاربر وردپرس شما"
+
+msgid "Never miss important updates, get security warnings before they become public knowledge, and receive notifications about special offers and awesome new features."
+msgstr "هرگز به‌روزرسانی‌های مهم را از دست ندهید، قبل از اینکه هشدارهای امنیتی به اطلاع عموم برسد، هشدارها را دریافت کنید و از پیشنهادات ویژه و ویژگی‌های جدید شگفت‌انگیز مطلع شوید."
+
+msgid "Newsletter"
+msgstr "خبرنامه"
+
+msgid "Updates, announcements, marketing, no spam"
+msgstr "به‌روزرسانی‌ها، اعلامیه‌ها، بازاریابی، بدون هرزنامه"
+
+msgctxt "verb"
+msgid "Update"
+msgstr "به‌روزرسانی"
+
+msgid "Billing"
+msgstr "صورتحساب"
+
+msgid "Business name"
+msgstr "نام کسب‌وکار"
+
+msgid "Tax / VAT ID"
+msgstr "شناسه مالیاتی / VAT"
+
+msgid "Address Line %d"
+msgstr "خط آدرس %d"
+
+msgid "City"
+msgstr "شهر"
+
+msgid "Town"
+msgstr "شهر"
+
+msgid "ZIP / Postal Code"
+msgstr "کد ZIP / پستی"
+
+msgid "Country"
+msgstr "کشور"
+
+msgid "Select Country"
+msgstr "کشور را انتخاب کنید"
+
+msgid "State"
+msgstr "استان"
+
+msgid "Province"
+msgstr "استان"
+
+msgid "Payments"
+msgstr "پرداخت‌ها"
+
+msgid "Date"
+msgstr "تاریخ"
+
+msgid "Amount"
+msgstr "مقدار"
+
+msgid "Invoice"
+msgstr "فاکتور"
+
+msgctxt "verb"
+msgid "Opt Out"
+msgstr "خروج از برنامه"
+
+msgctxt "verb"
+msgid "Opt In"
+msgstr "ثبت‌نام در برنامه"
+
+msgid "API"
+msgstr "API"
+
+msgid "Method"
+msgstr "روش"
+
+msgid "Code"
+msgstr "کد"
+
+msgid "Length"
+msgstr "طول"
+
+msgctxt "as file/folder path"
+msgid "Path"
+msgstr "مسیر"
+
+msgid "Body"
+msgstr "بدنه"
+
+msgid "Result"
+msgstr "نتیجه"
+
+msgid "Start"
+msgstr "شروع"
+
+msgid "End"
+msgstr "پایان"
+
+msgid "Log"
+msgstr "گزارش"
+
+msgid "In %s"
+msgstr "در %s"
+
+msgid "%s ago"
+msgstr "%s پیش"
+
+msgctxt "seconds"
+msgid "sec"
+msgstr "ثانیه"
+
+msgid "Plugins & Themes Sync"
+msgstr "همگام‌سازی افزونه‌ها و قالب‌ها"
+
+msgid "Total"
+msgstr "جمع"
+
+msgid "Last"
+msgstr "آخرین"
+
+msgid "Scheduled Crons"
+msgstr "کرون‌های برنامه‌ریزی‌شده"
+
+msgid "Module"
+msgstr "ماژول"
+
+msgid "Module Type"
+msgstr "نوع ماژول"
+
+msgid "Cron Type"
+msgstr "نوع کرون"
+
+msgid "Next"
+msgstr "بعدی"
+
+msgid "Non-expiring"
+msgstr "غیرقابل انقضا"
+
+msgid "Apply to become an affiliate"
+msgstr "برای تبدیل شدن به یک همکار درخواست دهید"
+
+msgid "Your affiliate application for %s has been accepted! Log in to your affiliate area at: %s."
+msgstr "درخواست همکار شما برای %s پذیرفته شده است! برای ورود به منطقه همکار خود به: %s وارد شوید."
+
+msgid "Thank you for applying for our affiliate program, we'll review your details during the next 14 days and will get back to you with further information."
+msgstr "از شما برای درخواست در برنامه همکار ما سپاسگزاریم، ما جزئیات شما را در طول 14 روز آینده بررسی خواهیم کرد و با اطلاعات بیشتر به شما بازخواهیم گشت."
+
+msgid "Your affiliation account was temporarily suspended."
+msgstr "حساب همکار شما به‌طور موقت تعلیق شد."
+
+msgid "Thank you for applying for our affiliate program, unfortunately, we've decided at this point to reject your application. Please try again in 30 days."
+msgstr "از شما برای درخواست در برنامه همکار ما سپاسگزاریم، متأسفانه در این مرحله تصمیم به رد درخواست شما گرفته‌ایم. لطفاً در 30 روز آینده دوباره تلاش کنید."
+
+msgid "Due to violation of our affiliation terms, we decided to temporarily block your affiliation account. If you have any questions, please contact support."
+msgstr "به دلیل نقض شرایط همکاری ما، تصمیم به مسدود کردن موقت حساب همکاری شما گرفتیم. اگر سوالی دارید، لطفاً با پشتیبانی تماس بگیرید."
+
+msgid "Like the %s? Become our ambassador and earn cash ;-)"
+msgstr "از %s خوشتان آمد؟ به سفیر ما تبدیل شوید و پول درآورید ;-)"
+
+msgid "Refer new customers to our %s and earn %s commission on each successful sale you refer!"
+msgstr "مشتریان جدید را به %s ما ارجاع دهید و %s کمیسیون از هر فروش موفقی که ارجاع می‌دهید، کسب کنید!"
+
+msgid "Program Summary"
+msgstr "خلاصه برنامه"
+
+msgid "%s commission when a customer purchases a new license."
+msgstr "%s کمیسیون زمانی که یک مشتری یک مجوز جدید خریداری می‌کند."
+
+msgid "Get commission for automated subscription renewals."
+msgstr "کمیسیون برای تمدید خودکار اشتراک‌ها را دریافت کنید."
+
+msgid "%s tracking cookie after the first visit to maximize earnings potential."
+msgstr "کوکی ردیابی %s پس از اولین بازدید برای حداکثر کردن پتانسیل درآمد."
+
+msgid "Unlimited commissions."
+msgstr "کمیسیون‌های نامحدود."
+
+msgid "%s minimum payout amount."
+msgstr "حداقل مبلغ پرداخت %s."
+
+msgid "Payouts are in USD and processed monthly via PayPal."
+msgstr "پرداخت‌ها به دلار آمریکا و به‌صورت ماهانه از طریق PayPal پردازش می‌شوند."
+
+msgid "As we reserve 30 days for potential refunds, we only pay commissions that are older than 30 days."
+msgstr "از آنجا که ما 30 روز را برای بازپرداخت‌های احتمالی در نظر می‌گیریم، فقط کمیسیون‌هایی را پرداخت می‌کنیم که بیش از 30 روز قدمت داشته باشند."
+
+msgid "Affiliate"
+msgstr "همکار"
+
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+msgid "Full name"
+msgstr "نام کامل"
+
+msgid "PayPal account email address"
+msgstr "آدرس ایمیل حساب PayPal"
+
+msgid "Where are you going to promote the %s?"
+msgstr "کجا قصد دارید %s را تبلیغ کنید؟"
+
+msgid "Enter the domain of your website or other websites from where you plan to promote the %s."
+msgstr "دامنه وب‌سایت خود یا وب‌سایت‌های دیگر را که قصد دارید %s را از آنجا تبلیغ کنید، وارد کنید."
+
+msgid "Add another domain"
+msgstr "دامنه دیگری اضافه کنید"
+
+msgid "Extra Domains"
+msgstr "دامنه‌های اضافی"
+
+msgid "Extra domains where you will be marketing the product from."
+msgstr "دامنه‌های اضافی که از آن‌ها محصول را تبلیغ خواهید کرد."
+
+msgid "Promotion methods"
+msgstr "روش‌های تبلیغ"
+
+msgid "Social media (Facebook, Twitter, etc.)"
+msgstr "رسانه‌های اجتماعی (فیسبوک، توییتر و غیره)"
+
+msgid "Mobile apps"
+msgstr "برنامه‌های موبایل"
+
+msgid "Website, email, and social media statistics (optional)"
+msgstr "آمار وب‌سایت، ایمیل و رسانه‌های اجتماعی (اختیاری)"
+
+msgid "Please feel free to provide any relevant website or social media statistics, e.g. monthly unique site visits, number of email subscribers, followers, etc. (we will keep this information confidential)."
+msgstr "لطفاً هر گونه آمار مرتبط با وب‌سایت یا رسانه‌های اجتماعی را ارائه دهید، مثلاً بازدیدهای منحصر به فرد ماهانه، تعداد مشترکان ایمیل، دنبال‌کنندگان و غیره. (ما این اطلاعات را محرمانه نگه خواهیم داشت)."
+
+msgid "How will you promote us?"
+msgstr "چگونه قصد دارید ما را تبلیغ کنید؟"
+
+msgid "Please provide details on how you intend to promote %s (please be as specific as possible)."
+msgstr "لطفاً جزئیات مربوط به چگونگی تبلیغ %s را ارائه دهید (لطفاً تا حد ممکن دقیق باشید)."
+
+msgid "Cancel"
+msgstr "لغو"
+
+msgid "Become an affiliate"
+msgstr "به همکار تبدیل شوید"
+
+msgid "Please enter the license key to enable the debug mode:"
+msgstr "لطفاً کلید مجوز را برای فعال‌سازی حالت عیب‌یابی وارد کنید:"
+
+msgid "To enter the debug mode, please enter the secret key of the license owner (UserID = %d), which you can find in your \"My Profile\" section of your User Dashboard:"
+msgstr "برای ورود به حالت عیب‌یابی، لطفاً کلید مخفی صاحب مجوز (UserID = %d) را وارد کنید که می‌توانید آن را در بخش \"پروفایل من\" در داشبورد کاربری خود پیدا کنید:"
+
+msgid "Submit"
+msgstr "ارسال"
+
+msgid "User key"
+msgstr "کلید کاربر"
+
+msgid "Email address update"
+msgstr "به‌روزرسانی آدرس ایمیل"
+
+msgctxt "close window"
+msgid "Dismiss"
+msgstr "رد کردن"
+
+msgid "Enter the new email address"
+msgstr "آدرس ایمیل جدید را وارد کنید"
+
+msgid "Are both %s and %s your email addresses?"
+msgstr "آیا هر دو %s و %s آدرس‌های ایمیل شما هستند؟"
+
+msgid "Yes - both addresses are mine"
+msgstr "بله - هر دو آدرس متعلق به من هستند"
+
+msgid "%s is my client's email address"
+msgstr "%s آدرس ایمیل مشتری من است"
+
+msgid "%s is my email address"
+msgstr "%s آدرس ایمیل من است"
+
+msgid "Would you like to merge %s into %s?"
+msgstr "آیا می‌خواهید %s را به %s ادغام کنید؟"
+
+msgid "Yes - move all my data and assets from %s to %s"
+msgstr "بله - تمام داده‌ها و دارایی‌های من را از %s به %s منتقل کنید"
+
+msgid "No - only move this site's data to %s"
+msgstr "خیر - فقط داده‌های این سایت را به %s منتقل کنید"
+
+msgid "Update"
+msgstr "به‌روزرسانی"
+
+msgid "Please enter the license key that you received in the email right after the purchase:"
+msgstr "لطفاً کلید مجوزی را که بلافاصله پس از خرید در ایمیل دریافت کردید، وارد کنید:"
+
+msgid "Update License"
+msgstr "به‌روزرسانی مجوز"
+
+msgid "The %1$s will be periodically sending essential license data to %2$s to check for security and feature updates, and verify the validity of your license."
+msgstr "%1$s به‌طور دوره‌ای داده‌های ضروری مجوز را به %2$s ارسال خواهد کرد تا به‌روزرسانی‌های امنیتی و ویژگی‌ها را بررسی کند و اعتبار مجوز شما را تأیید کند."
+
+msgid "Agree & Activate License"
+msgstr "تأیید و فعال‌سازی مجوز"
+
+msgid "Associate with the license owner's account."
+msgstr "با حساب صاحب مجوز مرتبط شوید."
+
+msgid "Communication"
+msgstr "ارتباطات"
+
+msgid "Stay Connected"
+msgstr "در تماس باشید"
+
+msgid "Diagnostic Info"
+msgstr "اطلاعات تشخیصی"
+
+msgid "Keep Sharing"
+msgstr "به اشتراک‌گذاری ادامه دهید"
+
+msgid "Extensions"
+msgstr "گسترش‌ها"
+
+msgid "Keep automatic updates"
+msgstr "به‌روزرسانی‌های خودکار را ادامه دهید"
+
+msgid "There is a new version of %s available."
+msgstr "نسخه جدیدی از %s در دسترس است."
+
+msgid " %s to access version %s security & feature updates, and support."
+msgstr " %s برای دسترسی به به‌روزرسانی‌های امنیتی و ویژگی‌های نسخه %s و پشتیبانی."
+
+msgid "New Version Available"
+msgstr "نسخه جدید در دسترس است"
+
+msgctxt "close a window"
+msgid "Dismiss"
+msgstr "رد کردن"
+
+msgid "Send License Key"
+msgstr "ارسال کلید مجوز"
+
+msgid "Enter the email address you've used during the purchase and we will resend you the license key."
+msgstr "آدرس ایمیلی را که در حین خرید استفاده کرده‌اید وارد کنید و ما کلید مجوز را دوباره برای شما ارسال خواهیم کرد."
+
+msgid "Enter the email address you've used for the upgrade below and we will resend you the license key."
+msgstr "آدرس ایمیلی را که برای ارتقاء استفاده کرده‌اید در زیر وارد کنید و ما کلید مجوز را دوباره برای شما ارسال خواهیم کرد."
+
+msgid "Deactivating or uninstalling the %s will automatically disable the license, which you'll be able to use on another site."
+msgstr "غیرفعال کردن یا حذف %s به‌طور خودکار مجوز را غیرفعال می‌کند، که می‌توانید آن را در سایت دیگری استفاده کنید."
+
+msgid "In case you are NOT planning on using this %s on this site (or any other site) - would you like to cancel the %s as well?"
+msgstr "اگر قصد ندارید از این %s در این سایت (یا هر سایت دیگری) استفاده کنید - آیا می‌خواهید %s را نیز لغو کنید؟"
+
+msgid "Cancel %s - I no longer need any security & feature updates, nor support for %s because I'm not planning to use the %s on this, or any other site."
+msgstr "لغو %s - من دیگر به هیچ‌گونه به‌روزرسانی‌های امنیتی و ویژگی‌ها، و همچنین پشتیبانی برای %s نیاز ندارم زیرا قصد ندارم از %s در این یا هر سایت دیگری استفاده کنم."
+
+msgid "Don't cancel %s - I'm still interested in getting security & feature updates, as well as be able to contact support."
+msgstr "لغو %s نکنید - من هنوز به دریافت به‌روزرسانی‌های امنیتی و ویژگی‌ها و همچنین تماس با پشتیبانی علاقه‌مند هستم."
+
+msgid "Once your license expires you will no longer be able to use the %s, unless you activate it again with a valid premium license."
+msgstr "پس از انقضای مجوز شما، دیگر نمی‌توانید از %s استفاده کنید، مگر اینکه آن را دوباره با یک مجوز پریمیوم معتبر فعال کنید."
+
+msgid "Cancel %s?"
+msgstr "آیا %s را لغو کنیم؟"
+
+msgid "Proceed"
+msgstr "ادامه"
+
+msgid "Cancel %s & Proceed"
+msgstr "لغو %s و ادامه"
+
+msgid "You are 1-click away from starting your %1$s-day free trial of the %2$s plan."
+msgstr "شما فقط یک کلیک با شروع دوره آزمایشی رایگان %1$s روزه از طرح %2$s فاصله دارید."
+
+msgid "For compliance with the WordPress.org guidelines, before we start the trial we ask that you opt in with your user and non-sensitive site information, allowing the %s to periodically send data to %s to check for version updates and to validate your trial."
+msgstr "برای رعایت دستورالعمل‌های WordPress.org، قبل از شروع دوره آزمایشی از شما می‌خواهیم که با اطلاعات کاربری و غیرحساس سایت خود ثبت‌نام کنید، تا %s به‌طور دوره‌ای داده‌ها را به %s ارسال کند تا به‌روزرسانی‌های نسخه را بررسی کند و دوره آزمایشی شما را تأیید کند."
+
+msgid "By changing the user, you agree to transfer the account ownership to:"
+msgstr "با تغییر کاربر، شما موافقت می‌کنید که مالکیت حساب را به:"
+  
+msgid "I Agree - Change User"
+msgstr "موافقم - تغییر کاربر"
+
+msgid "Enter email address"
+msgstr "آدرس ایمیل را وارد کنید"
+
+msgid "Saved"
+msgstr "ذخیره شد"
+
+msgid "Premium"
+msgstr "پریمیوم"
+
+msgid "Beta"
+msgstr "بتا"
+
+msgid "Activate license on all sites in the network."
+msgstr "فعال‌سازی مجوز در تمام سایت‌های شبکه."
+
+msgid "Apply on all sites in the network."
+msgstr "اعمال در تمام سایت‌های شبکه."
+
+msgid "Activate license on all pending sites."
+msgstr "فعال‌سازی مجوز در تمام سایت‌های معلق."
+
+msgid "Apply on all pending sites."
+msgstr "اعمال در تمام سایت‌های معلق."
+
+msgid "allow"
+msgstr "اجازه دادن"
+
+msgid "delegate"
+msgstr "واگذار کردن"
+
+msgid "skip"
+msgstr "نادیده گرفتن"
+
+msgid "Click to view full-size screenshot %d"
+msgstr "برای مشاهده اسکرین‌شات با اندازه کامل کلیک کنید %d"
+
+msgid "Unlimited Updates"
+msgstr "به‌روزرسانی‌های نامحدود"
+
+msgid "Localhost"
+msgstr "محلی"
+
+msgctxt "as 5 licenses left"
+msgid "%s left"
+msgstr "%s باقی مانده"
+
+msgid "Last license"
+msgstr "آخرین مجوز"
+
+msgid "%1$s will immediately stop all future recurring payments and your %s plan license will expire in %s."
+msgstr "%1$s به‌طور فوری تمام پرداخت‌های مکرر آینده را متوقف خواهد کرد و مجوز طرح %s شما در %s منقضی خواهد شد."
+
+msgid "Cancelled"
+msgstr "لغو شده"
+
+msgid "No expiration"
+msgstr "بدون انقضا"
+
+msgid "By disconnecting the website, previously shared diagnostic data about %1$s will be deleted and no longer visible to %2$s."
+msgstr "با قطع ارتباط وب‌سایت، داده‌های تشخیصی که قبلاً به اشتراک گذاشته شده است درباره %1$s حذف خواهد شد و دیگر برای %2$s قابل مشاهده نخواهد بود."
+
+msgid "Disconnecting the website will permanently remove %s from your User Dashboard's account."
+msgstr "قطع ارتباط وب‌سایت به‌طور دائمی %s را از حساب داشبورد کاربری شما حذف خواهد کرد."
+
+msgid "If you wish to cancel your %1$s plan's subscription instead, please navigate to the %2$s and cancel it there."
+msgstr "اگر می‌خواهید به جای آن، اشتراک طرح %1$s خود را لغو کنید، لطفاً به %2$s بروید و آنجا لغو کنید."
+
+msgid "Are you sure you would like to proceed with the disconnection?"
+msgstr "آیا مطمئن هستید که می‌خواهید با قطع ارتباط ادامه دهید؟"
+
+msgid "Owner Name"
+msgstr "نام مالک"
+
+msgid "Owner Email"
+msgstr "ایمیل مالک"
+
+msgid "Owner ID"
+msgstr "شناسه مالک"
+
+msgid "Subscription"
+msgstr "اشتراک"
+
+msgid "Sorry for the inconvenience and we are here to help if you give us a chance."
+msgstr "متأسفیم برای ناراحتی و ما اینجا هستیم تا کمک کنیم اگر به ما فرصتی بدهید."
+
+msgid "Contact Support"
+msgstr "تماس با پشتیبانی"
+
+msgid "Anonymous feedback"
+msgstr "بازخورد ناشناس"
+
+msgid "hour"
+msgstr "ساعت"
+
+msgid "hours"
+msgstr "ساعت‌ها"
+
+msgid "days"
+msgstr "روزها"
+
+msgid "Deactivate"
+msgstr "غیرفعال کردن"
+
+msgid "Activate %s"
+msgstr "فعال‌سازی %s"
+
+msgid "Submit & %s"
+msgstr "ارسال و %s"
+
+msgid "Quick Feedback"
+msgstr "بازخورد سریع"
+
+msgid "If you have a moment, please let us know why you are %s"
+msgstr "اگر فرصتی دارید، لطفاً به ما بگویید که چرا شما %s هستید"
+
+msgid "deactivating"
+msgstr "غیرفعال کردن"
+
+msgid "switching"
+msgstr "تغییر دادن"
+
+msgid "Kindly tell us the reason so we can improve."
+msgstr "لطفاً دلیل را به ما بگویید تا بتوانیم بهبود یابیم."
+
+msgid "Snooze & %s"
+msgstr "به تعویق انداختن و %s"
+
+msgid "Yes - %s"
+msgstr "بله - %s"
+
+msgid "Skip & %s"
+msgstr "نادیده گرفتن و %s"
+
+msgid "Click here to use the plugin anonymously"
+msgstr "اینجا کلیک کنید تا از افزونه به‌صورت ناشناس استفاده کنید"
+
+msgid "You might have missed it, but you don't have to share any data and can just %s the opt-in."
+msgstr "شاید این را از دست داده‌اید، اما نیازی به اشتراک‌گذاری هیچ داده‌ای ندارید و می‌توانید فقط %s را نادیده بگیرید."
